@@ -1,0 +1,6 @@
+{
+  "name": "Stock Trading Platform - CodeAlpha Task 2",
+  "description": "Professional simulated stock market trading platform with real-time portfolio management, trade execution, analytics, and complete runnable Java Spring Boot source code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
